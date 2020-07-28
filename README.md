@@ -1,9 +1,12 @@
-<p>HellO! My name is João Medeiros and this REACT JS application was made during the Allura REACT immersion! </p>
-<span>Enjoy!</span>
+<p>Hello! My name is João Medeiros and this REACT JS application was made during the Allura REACT immersion! </p>
+<p>In the links bellow have all my Social Medias link if you want to connect with me</p>
 
 [![GitHub Badge](https://img.shields.io/github/followers/JVMedeiros?label=JVMedeiros&style=for-the-badge&color=black&link=https://github.com/JVMedeiros)](https://github.com/JVMedeiros)
 [![LinkedIn Badge](https://img.shields.io/badge/jvmedeiros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmedeiros/)](https://www.linkedin.com/in/jvmedeiros/)
 [![Email Badge](https://img.shields.io/badge/contact-jv.medeiros.gallina@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/joão-medeiros/)](https://www.linkedin.com/in/joão-medeiros/)
+
+<span>Hope this repo become usefull. Enjoy!</span>
+
 
 
 ## :electric_plug: Prerequisites
