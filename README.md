@@ -1,12 +1,9 @@
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
+<p>HellO! My name is João Medeiros and this REACT JS application was made during the Allura REACT immersion! </p>
+<span>Enjoy!</span>
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LeuAlmeida/leunardo.dev?color=%237159c1">
-
-  <a href="https://leunardo.dev">
-    <img alt="Made by Léu Almeida" src="https://img.shields.io/badge/made%20by-Léu%20Almeida-%237159c1">
-  </a>
-</p>
+[![GitHub Badge](https://img.shields.io/github/followers/JVMedeiros?label=JVMedeiros&style=for-the-badge&color=black&link=https://github.com/JVMedeiros)](https://github.com/JVMedeiros)
+[![LinkedIn Badge](https://img.shields.io/badge/jvmedeiros-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmedeiros/)](https://www.linkedin.com/in/jvmedeiros/)
+[![Email Badge](https://img.shields.io/badge/contact-jv.medeiros.gallina@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/joão-medeiros/)](https://www.linkedin.com/in/joão-medeiros/)
 
 
 ## :electric_plug: Prerequisites
