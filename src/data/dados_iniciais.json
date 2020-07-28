@@ -1,51 +1,51 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "FullStack",
+      "link": "https://www.youtube.com/rocketseat",
+      "cor": "#0052B4",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formação gratuita DEV FullStack",
+        "url": "https://www.youtube.com/rocketseat"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Recriando a interface do PipeFy",
+          "url": "https://www.youtube.com/watch?v=awRtgpRsdTQ&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Recriando a interface do Discord",
+          "url": "https://www.youtube.com/watch?v=x4FdZd2-_uU&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=2"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Menu do Stripe com ReactJS",
+          "url": "https://www.youtube.com/watch?v=B7V0q0ZSz2o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=3"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Criando um projeto do zero para o seu portfólio",
+          "url": "https://www.youtube.com/watch?v=EhnXaybirdA"
+        }, 
+        {
+          "titulo": "WorkShop Begineer ep.1",
+          "url": "https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Manipulação de DOM com JavaScript, do zero, na prática | Masterclass #18",
+          "url": "https://www.youtube.com/watch?v=UftSB4DaRU4&list=PL85ITvJ7FLogMzb2s6K5wKpQK2nL76vUK"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Dê super poderes ao CSS com SASS | Masterclass #15",
+          "url": "https://www.youtube.com/watch?v=BaI8dHUthLA&list=PL85ITvJ7FLogMzb2s6K5wKpQK2nL76vUK&index=2"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "SQL no Node.js com Knex.js | Masterclass #13",
+          "url": "https://www.youtube.com/watch?v=U7GjS3FuSkA&list=PL85ITvJ7FLogMzb2s6K5wKpQK2nL76vUK&index=3"
+        }       
       ]
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#6DA544",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -74,50 +74,96 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Front End - WEB",
+      "cor": "#FFDA44",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Cursos de Front End - WEB na RocketSeat",
+        "url": "https://www.youtube.com/playlist?list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Iniciando no ReactJS",
+          "url": "https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Controlando autenticação em rotas no ReactJS",
+          "url": "https://www.youtube.com/watch?v=sYe4r8WXGQg&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=3&t=0s"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Caminhos relativos no ReactJS com create-react-app",
+          "url": "https://www.youtube.com/watch?v=lAV1-19hHqw&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=3"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Conectando o React Router DOM ao Redux no ReactJS ",
+          "url": "https://www.youtube.com/watch?v=khaFn1pnDtw&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI&index=4"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Front End - Mobile",
+      "cor": "#da532c",
+      "link_extra": {
+        "text": "Cursos de Front End - Mobile no Youtube",
+        "url": "https://www.youtube.com/"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Criando um PWA com React Native & Expo Web",
+          "url": "https://www.youtube.com/watch?v=AqJKAJ0TKms"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "React Native + Firebase",
+          "url": "https://www.youtube.com/watch?v=MxXyR0CN4v0&list=PL85ITvJ7FLoj2jNEk6NNoJFSqfUznnEnn"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Flutter em 6 minutos - Tudo que você precisa saber",
+          "url": "https://www.youtube.com/watch?v=jbAh5R8CH_o"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "APP Flutter - Sua PRIMEIRA App COMPLETA",
+          "url": "https://www.youtube.com/watch?v=jyjdXFsQoYw"
+        },
+        {
+          "titulo": "Flutter Presentation",
+          "url": "https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr"
+        },
+        {
+          "titulo": "Iniciando com React Native em 2019",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA&t=10s"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Chilling Techno",
+        "url": "https://www.youtube.com/channel/UCPKT_csvP72boVX0XrMtagQ"
+      },
+      "videos": [
+        {
+          "titulo": "Damin Lazarus at Day Zero - Tulum",
+          "url": "https://www.youtube.com/watch?v=nF1UIC6chjw&t=2979s"
+        },
+        {
+          "titulo": "ARTBAT at Bondinho - RJ",
+          "url": "https://www.youtube.com/watch?v=hENgrbIMiy4&t=3300s"
+        },
+        {
+          "titulo": "Solomun at Théâtre Antique d'Orange",
+          "url": "https://www.youtube.com/watch?v=QHDRRxKlimY"
+        },
+        {
+          "titulo": "Boris Brejcha at Château de Fontainebleau,",
+          "url": "https://www.youtube.com/watch?v=4Rc-NGWEHdU&t=7s"
+        },
+        {
+          "titulo": "Deborah de Luca at Château de Chambord",
+          "url": "https://www.youtube.com/watch?v=yEbrvMljMCg"
+        },
+        {
+          "titulo": "Hot Since 82 at Culture Club Revelin terrace ",
+          "url": "https://www.youtube.com/watch?v=VjQmQ00LKSc"
         }
       ]
     },
@@ -148,36 +194,6 @@
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
