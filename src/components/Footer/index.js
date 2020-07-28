@@ -1,6 +1,6 @@
 import React from 'react';
 import { FooterBase } from './styles';
-import {FaHeart} from 'react-icons/fa';
+import {FaHeart, FaCoffee } from 'react-icons/fa';
 
 function Footer() {
   return (
@@ -9,7 +9,7 @@ function Footer() {
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
       <p>
-        made with <FaHeart /> by JVMedeiros in 
+        made with <FaHeart /> and <FaCoffee/> by JVMedeiros in 
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
