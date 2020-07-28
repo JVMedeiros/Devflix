@@ -9,7 +9,9 @@ function Footer() {
         <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
       </a>
       <p>
-        made with <FaHeart /> and <FaCoffee/> by JVMedeiros in 
+        Made with <FaHeart /> and <FaCoffee/> by <a href="https:/github.com/JVMedeiros">
+          JVMedeiros
+        </a> in 
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
