@@ -27,5 +27,5 @@ a {
 #root {
   min-height: calc(100vh - var(--bodyPaddinTop));
   display: flex;
- flex-direction: column; 
+  flex-direction: column; 
 }
